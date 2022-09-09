@@ -9,6 +9,6 @@
 
 ---
 
-[ *Go back to see other works in this github*](https://github.com/vegaweb-dev)
+[ _Go back to see other works in this github_](https://github.com/vegaweb-dev)
 
-[ __I want to see this LinkedIn Profile__](https://www.linkedin.com/in/carlos-vega-frontend/) 😀
+[ **I want to see this LinkedIn Profile**](https://www.linkedin.com/in/carlos-vega-frontend/) 😀
